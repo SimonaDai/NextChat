@@ -1,3 +1,12 @@
+> **[注]：已完成部署**
+>
+> 网址：https://gpt.simonadai.fun/
+>
+> 密钥：宿舍号
+>
+> 具体的API购买见宿舍群，官方KEY要用梯子，中转网站需要重新设置网关和KEY，一起加油学习吧📖
+
+
 <div align="center">
 
 <a href='https://nextchat.club'>
